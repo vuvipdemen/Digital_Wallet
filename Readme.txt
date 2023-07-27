@@ -14,9 +14,5 @@
 		username: admin
 		password: 123456
 
-* Thông tin nhóm: 21
-	Nguyễn Quang Duy: 519H0157
-	Trần Trung Kiên: 519H0306
-	Vũ Văn Ngọc: 519H0326
-	Hoàng Tuấn Vũ: 519H0262
+
 
